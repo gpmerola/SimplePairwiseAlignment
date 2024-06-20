@@ -2,6 +2,14 @@
 
 This repository contains a simple implementation of a pairwise alignment algorithm for FASTA files using the Needleman-Wunsch algorithm.
 
+## Table of Contents
+
+- [Features](#features)
+- [Requirements](#requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
 ## Features
 
 - Reads sequences from FASTA files
