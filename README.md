@@ -1,6 +1,6 @@
 # SimplePairwiseAlignment
 
-This repository contains a simple implementation of a pairwise alignment algorithm for FASTA files using the Needleman-Wunsch algorithm. It demonstrates basic proficiency in C++ and genetics.
+This repository contains a simple implementation of a pairwise alignment algorithm for FASTA files using the Needleman-Wunsch algorithm.
 
 ## Features
 
